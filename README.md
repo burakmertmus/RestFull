@@ -1,1 +1,1 @@
-# RestFull
+# Bu uygulama RestFull mimarisi kullanarak veri tabanın kontol işlemi yapmaktadır. Ekleme, çıkarma, güncelleme  arama gibi fonksiyonlara sahiptir.  Authentication işlemlerini JWT ile sağlamaktadır. Database yapısı olarak ORM kullanmaktadır.
